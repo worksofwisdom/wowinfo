@@ -10,7 +10,7 @@ Works of Wisdom is a consultancy focused on transforming an organization’s dig
 
 <b>Pete Fritz</b> contact information:
 
-[pete@worksofwisdom.com](maito:pete@worksofwisdom.com&subject=Github%20Query)
+<pete@worksofwisdom.com>
 mobile: 425.736.5704
 fax: 425.633.2281
 [Linked In](https://linkedin.com/in/pfritz)
